@@ -1,11 +1,23 @@
 ### Hi there, I'm Abil - [Abuzzz007][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on my website😉
-- 🌱 I’m currently learning Flutter <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="20px">
-- ⚡ Fun fact: I'm currently single😁
-- 📝[Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
+<a href="https://www.linkedin.com/in/abil-savio">
+  <img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/abilsavio">
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=abuzzz007.abuzzz007"/>
 
-**Languages and Tools**  
+<br/>
+
+- 👨‍🎓 I'm currently a CS undergrad at [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
+- 🔭 I'm currently working on a project😉
+- 🌱 I'm currently learning Flutter <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="20px">
+- ⚡ Fun fact: I'm currently single😁
+- 📝 Check out my [Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
+
+**🔨 Languages and Tools**  
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -20,6 +32,6 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **📈 My GitHub Stats**
-<p align="center"> <img alt="Abuzzz007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abuzzz007&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img alt="Abuzzz007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abuzzz007&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 [website]: https://abuzzz007.github.io
