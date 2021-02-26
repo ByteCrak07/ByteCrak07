@@ -1,12 +1,12 @@
-### Hi there, I'm Abil - [Abuzzz007][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Abil - [ByteCrak07][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/abil-savio">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abilsavio">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
 </a> 
-<img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=abuzzz007.abuzzz007"/>
+<img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=ByteCrak07.ByteCrak07"/>
 
 <br/>
 
@@ -31,6 +31,6 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **📈 My GitHub Stats**
-<p align="left"><img alt="Abuzzz007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abuzzz007&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<p align="left"><img alt="ByteCrak07's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ByteCrak07&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
-[website]: https://abuzzz007.github.io
+[website]: https://bytecrak07.github.io
