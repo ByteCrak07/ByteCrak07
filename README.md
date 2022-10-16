@@ -18,8 +18,7 @@
 - 👨‍🎓 I'm currently pursuing CS undergrad at [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
 - 💻 Fullstack Web Developer at [TATOS Technologies](https://tatos.tech)
 - 🛠️ Currently working on [Cryptoliterature - an NFT marketplace](https://cryptoliterature.in)
-- 🌱 Also learning TypeScript <img align="top" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20px"> & NestJS <img align="top" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS - A progressive Node.js framework" width="20px">
-- ⚡ Fun fact: I'm currently single😁🌚
+- 🌱 Also learning [Solidity](https://docs.soliditylang.org) <img align="top" src="https://docs.soliditylang.org/en/v0.8.17/_images/logo.svg" width="20px">
 - 📝 Check out my [Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
 
 **🔨 Languages and Tools**
@@ -31,6 +30,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="26" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
 <code><img height="26" src="https://www.gatsbyjs.com/favicon-32x32.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf"></code>
+<code><img height="30" src="https://docs.soliditylang.org/en/v0.8.17/_images/logo.svg"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="26" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
