@@ -1,49 +1,142 @@
-### Hi there, I'm Abil - [ByteCrak07][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm Abil - [ByteCrak07](https://abilsavio.tech) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abil-savio">
-  <img alt="LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/abilsavio">
-  <img alt="Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
-</a>
-<a href="https://twitter.com/AbilSavio">
-  <img alt="Twitter" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />
-</a>
-<span>
-  <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=ByteCrak07.ByteCrak07"/>
-</span>
+###
 
-<br/>
+I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsavio.tech](https://abilsavio.tech)
 
-- 👨‍🎓 I'm currently pursuing CS undergrad at [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
-- 💻 Fullstack Web Developer at [TATOS Technologies](https://tatos.tech)
-- 🛠️ Currently working on [Cryptoliterature - an NFT marketplace](https://cryptoliterature.in)
-- 🌱 Also learning [Solidity](https://docs.soliditylang.org) <img align="top" src="https://docs.soliditylang.org/en/v0.8.17/_images/logo.svg" width="20px">
-- 📝 Check out my [Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
+###
 
-**🔨 Languages and Tools**
+## 🤔 About me
 
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="26" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
-<code><img height="26" src="https://www.gatsbyjs.com/favicon-32x32.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf"></code>
-<code><img height="30" src="https://docs.soliditylang.org/en/v0.8.17/_images/logo.svg"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="26" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="26" src="https://www.prisma.io/images/favicon-32x32.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+###
 
-**📈 My GitHub Stats**
+- 💻 Full Stack Developer Intern at [BuildBear Labs](https://buildbear.io)
+- 🛠️ Currently working on a secret project 🤫
+- 🌱 Also learning Rust
+- 🔗 And exploring the world of blockchain
+- 🌐 Check out my website at [abilsavio.tech](https://abilsavio.tech)
+- 📝 And my [Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ByteCrak07&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCrak07&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&count_private=true">
+###
 
-[website]: https://bytecrak07.github.io
+<h2 align="left">🔨 My Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="33" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="33" alt="nestjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="33" alt="gatsby logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="33" alt="svelte logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="33" alt="socketio logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="33" alt="solidity logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="33" alt="go logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=rust" height="33" alt="rust logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="33" alt="fastapi logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="33" alt="django logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="33" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="33" alt="kubernetes logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="33" alt="amazonwebservices logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="33" alt="googlecloud logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="33" alt="digitalocean logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="33" alt="bash logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">🤗 My Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abil-savio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/AbilSavio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@abilsavio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="mailto:abilsavio@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🫣 View Counter</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ByteCrak07/count.svg?"  />
+</div>
+
+###
+
+<h2 align="left">📈 My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteCrak07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="196" alt="stats graph"  />
+  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByteCrak07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ByteCrak07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ByteCrak07/ByteCrak07/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ByteCrak07/ByteCrak07/output/github-snake.svg"
+  />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/ByteCrak07/ByteCrak07/output/github-snake.svg"
+  />
+</picture>
+
+###
