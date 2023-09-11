@@ -10,7 +10,7 @@ I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsa
 
 ###
 
-- 💻 Full Stack Developer Intern at [BuildBear Labs](https://buildbear.io)
+- 💻 Unemployed (Looking for Full-time roles 🤓)
 - 🛠️ Currently working on a secret project 🤫
 - 🌱 Also learning Rust
 - 🔗 And exploring the world of blockchain
