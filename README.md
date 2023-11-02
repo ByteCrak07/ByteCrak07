@@ -10,7 +10,7 @@ I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsa
 
 ###
 
-- 💻 Unemployed (Looking for Full-time roles 🤓)
+- 💻 Full Stack Developer at [beyondClub](https://www.beyondclub.xyz)
 - 🛠️ Currently working on a secret project 🤫
 - 🌱 Also learning Rust
 - 🔗 And exploring the world of blockchain
