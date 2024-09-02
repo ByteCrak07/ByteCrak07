@@ -1,8 +1,8 @@
-# Hey there, I'm Abil - [ByteCrak07](https://abilsavio.tech) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm Abil - [ByteCrak07](https://abilsavio.dev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ###
 
-I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsavio.tech](https://abilsavio.tech)
+I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsavio.dev](https://abilsavio.dev)
 
 ###
 
@@ -14,7 +14,7 @@ I'm a Full Stack Developer from Kerala, India. Check out my portfolio at [abilsa
 - 🛠️ Currently working on a secret project 🤫
 - 🌱 Also learning Rust
 - 🔗 And exploring the world of blockchain
-- 🌐 Check out my website at [abilsavio.tech](https://abilsavio.tech)
+- 🌐 Check out my website at [abilsavio.dev](https://abilsavio.dev)
 - 📝 And my [Resume](https://drive.google.com/file/d/106k85SZrdnckTypWfRPZUEMr5agtEyGC/view?usp=sharing)
 
 ###
